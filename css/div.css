@@ -1,0 +1,45 @@
+/* рейтинг */
+#rel{
+width:200px;
+height:20px;
+text-align:center;
+margin:auto;
+position:absolute;
+z-index:500;
+color:#fff;
+line-height:1.7;
+font-weight:bold;
+}
+#pos{
+width:120px;
+height:20px;
+background-image:
+-webkit-linear-gradient(#496063, #6b878a);
+float:left;
+display:block;
+}
+#pos2{
+width:80px;
+height:20px;
+background:#748c8f;
+float:right;
+display:block;
+}
+
+/*---------*/
+
+#stena{
+display:block;
+background:#ddd;
+margin:0 auto;
+clear:both;
+}
+
+
+
+
+
+
+
+
+
